@@ -2,7 +2,7 @@ Welcome to the MS SET respository.  Here you will find the code for some of our 
 
 Below is a link to some of our key projects
 
-<a href="https://github.com/yaronyg/thali">Thali</a>An experiment to see what it would take to make the web truly Peer to Peer<br>
+<a href="https://github.com/yaronyg/thali">Thali</a> is an experiment to see what it would take to make the web truly Peer to Peer<br>
 <a href="https://github.com/nitrogenjs">Nitrogen JS</a><br>
 <a href="https://github.com/timfpark/coreos-azure">CoreOS/Azure</a><br>
 
