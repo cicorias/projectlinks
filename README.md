@@ -6,7 +6,7 @@ Below is a link to some of our key projects
 <a href="https://github.com/yaronyg/thali">Thali</a><br>
 <a href="https://github.com/nitrogenjs">Nitrogen JS</a>
 
-Here are links to the repositories of our team members
+Here are links to the repositories of our team members<br>
 <a href="https://github.com/timfpark">Tim Park</a><br>
 <a href="https://github.com/stefangordon">Stefan Gordon</a><br>
 <a href="https://github.com/yaronyg">Yaron Goland</a><br>
