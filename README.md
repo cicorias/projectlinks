@@ -3,8 +3,8 @@ Welcome to the MS SET respository.  Here you will find the code for some of our 
 Below is a link to some of our key projects
 
 <a href="https://github.com/yaronyg/thali">Thali</a><br>
-<a href="https://github.com/nitrogenjs">Nitrogen JS</a>
-<a href="https://github.com/timfpark/coreos-azure">CoreOS/Azure</a>
+<a href="https://github.com/nitrogenjs">Nitrogen JS</a><br>
+<a href="https://github.com/timfpark/coreos-azure">CoreOS/Azure</a><br>
 
 Here are links to the repositories of our team members<br>
 <a href="https://github.com/Aargau">Justin Bronder</a><br>
