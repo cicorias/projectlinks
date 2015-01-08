@@ -1,4 +1,3 @@
-# projectlinks
 Welcome to the MS SET respository.  Here you will find the code for some of our small projects that we are playing with.  Below is a link to our projects that have grown up and have their own respositories and communities.
 
 Below is a link to some of our key projects
