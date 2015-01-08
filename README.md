@@ -5,8 +5,12 @@ Below is a link to some of our key projects
 
 <a href="https://github.com/yaronyg/thali">Thali</a><br>
 <a href="https://github.com/nitrogenjs">Nitrogen JS</a>
+<a href="https://github.com/timfpark/coreos-azure">CoreOS/Azure</a>
 
 Here are links to the repositories of our team members<br>
 <a href="https://github.com/timfpark">Tim Park</a><br>
-<a href="https://github.com/stefangordon">Stefan Gordon</a><br>
+<a href="https://github.com/chanezon">Patrick Chanezon></a><br>
 <a href="https://github.com/yaronyg">Yaron Goland</a><br>
+<a href="https://github.com/stefangordon">Stefan Gordon</a><br>
+
+
