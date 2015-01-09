@@ -9,7 +9,7 @@ Below is a link to some of our key projects
 
 Here are links to the repositories of our team members<br>
 <a href="https://github.com/Aargau">Justin Bronder</a><br>
-<a href="https://github.com/chanezon">Patrick Chanezon></a><br>
+<a href="https://github.com/chanezon">Patrick Chanezon</a><br>
 <a href="https://github.com/yaronyg">Yaron Goland</a><br>
 <a href="https://github.com/stefangordon">Stefan Gordon</a><br>
 <a href="https://github.com/joshholmes">Josh Holmes</a><br>
