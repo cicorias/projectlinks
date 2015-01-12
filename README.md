@@ -15,4 +15,5 @@ Here are links to the repositories of our team members<br>
 <a href="https://github.com/joshholmes">Josh Holmes</a><br>
 <a href="https://github.com/irjudson">Ivan Judson</a><br>
 <a href="https://github.com/timfpark">Tim Park</a><br>
+<a href="https://github.com/limorl">Limor Lahiani</a><br>
 
